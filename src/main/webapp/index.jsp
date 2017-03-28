@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
-    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=oEPhemHF86gtygZBvz8c3QAuAAcBrHut"></script>
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak="></script>
     <script type="text/javascript" src="http://api.map.baidu.com/library/Heatmap/2.0/src/Heatmap_min.js"></script>
     <title>热力图功能示例</title>
     <style type="text/css">
